@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt/bin/tensorflow/lite/c/c_api_opaque_internal.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt/bin/tensorflow/lite/c/_objs/c_api_opaque_internal/c_api_opaque_internal.obj
+/ignore:4221
